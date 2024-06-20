@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0535157.css",
-    "main.js": "/static/js/main.13ccbd3e.js",
-    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/index.html",
-    "main.a0535157.css.map": "/static/css/main.a0535157.css.map",
-    "main.13ccbd3e.js.map": "/static/js/main.13ccbd3e.js.map",
-    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/axios_live/static/css/main.a0535157.css",
+    "main.js": "/axios_live/static/js/main.8c5ff673.js",
+    "static/js/453.ed3810f9.chunk.js": "/axios_live/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/axios_live/index.html",
+    "main.a0535157.css.map": "/axios_live/static/css/main.a0535157.css.map",
+    "main.8c5ff673.js.map": "/axios_live/static/js/main.8c5ff673.js.map",
+    "453.ed3810f9.chunk.js.map": "/axios_live/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0535157.css",
-    "static/js/main.13ccbd3e.js"
+    "static/js/main.8c5ff673.js"
   ]
 }
